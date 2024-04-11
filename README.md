@@ -3,6 +3,8 @@
 This project utilizes Convolutional Neural Networks (CNNs) implemented with TensorFlow and Keras to classify brain tumor images.
 The dataset used for this project is sourced from Kaggle, and you can access it [here](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/data).
 
+[Link to Jupyter Notebook](https://github.com/abhishekiiitbh2903/BRAIN_TUMOR/blob/main/Brain%20Tumor%20Detection.ipynb)
+
 ## Overview
 
 - **Training Model**: Custom CNN
@@ -44,7 +46,9 @@ Data augmentation techniques were employed to augment the dataset, helping to pr
 - LeNet
 - ResNet
 
-The custom model outperformed the other three models, achieving a test accuracy of 97.9%.
+The custom model outperformed the other three models, achieving a test accuracy of 97.85%.
+![Comparison of Different Models](https://github.com/abhishekiiitbh2903/BRAIN_TUMOR/blob/main/Models_Performance_Comparisons.png)
+
 
 ## Displaying Predictions and Confidence
 
@@ -55,4 +59,4 @@ The model displays predictions along with their confidence levels during the pre
 - Abhishek Singh
 - Undergraduate in Computer Science and Engineering, IIITBH
 
-For any inquiries or feedback, please contact Abhishek Singh at [abhishekrathore1806.com](mailto:abhishekrathore1806.com).
+For any inquiries or feedback, please contact Abhishek Singh at [abhishekrathore1806@gmail.com](mailto:abhishekrathore1806@gmail.com).
