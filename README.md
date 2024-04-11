@@ -5,6 +5,12 @@ The dataset used for this project is sourced from Kaggle, and you can access it 
 
 [Link to Jupyter Notebook](https://github.com/abhishekiiitbh2903/BRAIN_TUMOR/blob/main/Brain%20Tumor%20Detection.ipynb)
 
+🚀 **Brain Tumor Detection Web App**
+
+Deployed on Streamlit, you can test it with sample images from the `sample_images` folder in this repo. 
+
+Try it out [here](https://braintumordetectionbyabhi.streamlit.app/).
+
 ## Overview
 
 - **Training Model**: Custom CNN
